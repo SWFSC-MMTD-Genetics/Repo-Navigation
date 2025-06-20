@@ -1,2 +1,25 @@
 # Repo-Navigation
 This directory is intended to act as a central navigation hub of the SWFSC-MMTD-Genetics GitHub
+
+General
+  - Archiving Repo
+  - Inventory Repo
+  - SOP Repo
+
+FY25 projects
+Mammals: 
+  - Mammal Species ID
+  - Spotted Seal Sexing/Sequencing
+  - False Killer Whale Sequencing
+  - Mammal eDNA pilot project
+  - Harbor Seal MyBaits Mitogenome
+Turtles:
+  - Green Turtle CA in-water
+  - Turtle Bycatch
+  - Atl Leatherback GTseq
+  - So. Cal Green eDNA
+  - Loggerhead Reloacation Sequencing
+  - Atl Greens Sequencing
+  - Epigenetics DNA prep
+  - Leatherback Novogene DNA prep
+  
