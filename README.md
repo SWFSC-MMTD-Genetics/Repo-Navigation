@@ -19,10 +19,10 @@ Mammals:
 Turtles:
   - Green Turtle CA in-water
   - Turtle Bycatch
-  - Atl Leatherback GTseq
+  - Atlantic Leatherback GTseq
   - So. Cal Green eDNA
-  - Loggerhead Reloacation Sequencing
-  - Atl Greens Sequencing
+  - Loggerhead Relocation Sequencing
+  - Atlantic Green turtle Sequencing
   - Epigenetics DNA prep
   - Leatherback Novogene DNA prep
   
