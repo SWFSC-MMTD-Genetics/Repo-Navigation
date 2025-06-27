@@ -7,12 +7,15 @@ General
   - SOP Repo
 
 FY25 projects
+
 Mammals: 
   - Mammal Species ID
   - Spotted Seal Sexing/Sequencing
   - False Killer Whale Sequencing
   - Mammal eDNA pilot project
   - Harbor Seal MyBaits Mitogenome
+
+
 Turtles:
   - Green Turtle CA in-water
   - Turtle Bycatch
