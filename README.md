@@ -19,7 +19,7 @@ This directory is intended to act as a central navigation hub of the SWFSC-MMTD-
   - Spotted Seal Sexing/Sequencing
   - False Killer Whale Sequencing
   - Mammal eDNA pilot project
-  - Harbor Seal MyBaits Mitogenome
+  - [Harbor Seal MyBaits Mitogenome](https://github.com/SWFSC-MMTD-Genetics/MMTD-Genetics-Projects/tree/main/Harbor%20Seal%20Mybaits%20mitogenome)
 
 </details>
 <details>
